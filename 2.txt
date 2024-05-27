@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   Julia    1300       1 ?        09:45:45 /usr/bin/mintty
+   Julia    1301    1300 pty0     09:45:45 /usr/bin/bash
+   Julia    1366    1301 pty0     10:14:08 /usr/bin/ps
